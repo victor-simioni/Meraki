@@ -14,9 +14,13 @@ enabling structured analysis and simplified operational workflows.
 🧠 Features
 
 📡 API Integration: Connects securely to the Meraki Dashboard REST API
+
 🔐 Secure Authentication: Uses API Key for authorized access
+
 🗃️ Data Collection: Fetches key data such as devices, networks, and org info
+
 📊 Modular Scripts: Each script focuses on specific data reporting tasks
+
 🛠️ Structured Output: Data ready for use in dashboards or analytics workflows
 
 --------------------------------------------------------------------------
